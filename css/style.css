@@ -1,0 +1,19 @@
+.FieldInfo {
+    color: rgb(251, 174, 44);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+
+.comment-block {
+    background-color: #f6f6f9;
+}
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #005e90;
+}
+
+.heading:hover {
+    color: #0090db;
+}
